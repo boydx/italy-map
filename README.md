@@ -4,4 +4,5 @@ Using [Natural Earth](http://www.naturalearthdata.com/) data with QGIS and Adobe
 ![Map of Italy](italy-map.jpg)    
 *Map of Italy (note at least one typo: Mediterranean Sea*
 
-[Download GeoPDF](italy-map.pdf)
+![QR Code](qr.png)   
+[Download GeoPDF](italy-map.pdf)    
